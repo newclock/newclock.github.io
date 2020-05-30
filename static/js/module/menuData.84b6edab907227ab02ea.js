@@ -1,0 +1,1 @@
+webpackJsonp([4],{1749:function(e,n,u){u(230),e.exports=u(229)},229:function(e,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var m=[{menuCode:"cmp",menuIcon:"el-icon-rank",id:"1",name:"对比数据",menuName:"对比数据",menuType:"1",children:[{menuCode:"cmp-1",menuIcon:null,id:"1-1",name:"对比数据",menuType:"1",menuUrl:"cmp"}]}];n.setMenuDataUse=m}},[1749]);
